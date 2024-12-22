@@ -4,5 +4,6 @@ public class Main {
 		[f-1] commit-1
 		[f-1] commit-2
 		[f-2] commit-1
+		[f-2] commit-2
 	}
 }
